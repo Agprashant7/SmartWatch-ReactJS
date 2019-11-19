@@ -1,0 +1,23 @@
+.subim{
+    width: 50px;
+    height:50px;
+    margin-right: 20px;
+    border-radius: 20px;
+    
+  }
+  
+  button{
+    margin-right: 12px;
+    background-color: darkgrey;
+    padding: 12px;
+    border-radius: 10px;
+  }
+  .heading{
+    font-family: Arial, Helvetica, sans-serif;
+    color: cornflowerblue;
+  }
+  .desc{
+    width: 300px;
+    font-style: oblique;
+  }
+  @media (max-width: 700px)
